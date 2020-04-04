@@ -1,3 +1,2 @@
 # firstRepository
-First Repository
-Technology used in app etc.
+First Repository, my works on react.
