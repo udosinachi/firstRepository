@@ -1,2 +1,2 @@
 # firstRepository
-First Repository, my works on react.
+First Repository, my first works on react.
